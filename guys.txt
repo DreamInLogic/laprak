@@ -1,7 +1,5 @@
-<<<<<<< HEAD
+
 guys
-=======
-guys 
 
 hahha
->>>>>>> coba_coba
+

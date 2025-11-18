@@ -209,5 +209,3 @@ main()
 	}	
 
 }
-
-// halooo bang
